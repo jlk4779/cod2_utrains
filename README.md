@@ -1,2 +1,4 @@
-# cod2_utrains
-copied from kserge
+# maven-project
+
+Simple Maven Project conflict
+
